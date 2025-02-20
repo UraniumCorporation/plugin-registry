@@ -1,0 +1,20 @@
+{
+  "name": "plugin-registry",
+  "version": "0.0.0",
+  "description": "plugin registry for maiar framework",
+  "main": "audit.js",
+  "scripts": {
+    "audit": "node audit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UraniumCorporation/plugin-registry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UraniumCorporation/plugin-registry/issues"
+  },
+  "homepage": "https://github.com/UraniumCorporation/plugin-registry#readme"
+}
