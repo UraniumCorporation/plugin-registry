@@ -1,5 +1,10 @@
 [
   {
+    "repo": "plugin-aio",
+    "owner": "Karpzz",
+    "npm_package_name": "@karpz/plugin-aio"
+  },
+  {
     "repo": "plugin-jupiter",
     "owner": "Cubie-AI",
     "npm_package_name": "@cubie-ai/plugin-jupiter"
