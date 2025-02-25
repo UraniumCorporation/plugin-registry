@@ -1,5 +1,10 @@
 [
   {
+    "repo": "plugin-pdf",
+    "owner": "zeeman-effect",
+    "npm_package_name": "@zeeman-effect/plugin-pdf"
+  },
+  {
     "repo": "plugin-jupiter",
     "owner": "Cubie-AI",
     "npm_package_name": "@cubie-ai/plugin-jupiter"
